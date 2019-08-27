@@ -4,9 +4,6 @@ import {DISHES } from '../shared/dishes';
 import { DishService } from '../services/dish.service';
 
 
-import { DishService } from '../services/dish.service';
-
-
 @Component({
   selector: 'app-menu',
   templateUrl: './menu.component.html',
